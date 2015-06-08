@@ -1,0 +1,1 @@
+<p>Noticia creada con éxito.</p>
